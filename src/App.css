@@ -1,0 +1,52 @@
+.nav-bar{
+    background-color: rgb(243, 158, 67);
+    height: 100px;
+}
+
+.container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;          
+}
+
+.write{
+    height: 100px;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+.writeDiv{
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+input{
+    border: none;
+    outline: none;
+}
+
+.savedNotes{
+    margin-left: 5%;
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+.addBtn:hover{
+    background-color: rgb(243, 158, 67) !important;
+    color: white !important;
+}
+
+.deleteBtn:hover {
+    background-color: rgb(243, 158, 67) !important;
+    color: white !important;
+}
+
+
+
